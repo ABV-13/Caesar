@@ -86,7 +86,7 @@
             // 
             // decrypt_button
             // 
-            this.decrypt_button.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.decrypt_button.BackColor = System.Drawing.SystemColors.HotTrack;
             this.decrypt_button.Font = new System.Drawing.Font("MS Reference Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.decrypt_button.ForeColor = System.Drawing.Color.White;
             this.decrypt_button.Location = new System.Drawing.Point(301, 278);

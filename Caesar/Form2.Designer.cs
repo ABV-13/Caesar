@@ -52,7 +52,7 @@
             // 
             // encrypt_button
             // 
-            this.encrypt_button.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.encrypt_button.BackColor = System.Drawing.SystemColors.HotTrack;
             this.encrypt_button.Font = new System.Drawing.Font("MS Reference Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.encrypt_button.ForeColor = System.Drawing.Color.White;
             this.encrypt_button.Location = new System.Drawing.Point(307, 281);
