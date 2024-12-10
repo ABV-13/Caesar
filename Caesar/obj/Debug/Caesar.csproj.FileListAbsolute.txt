@@ -1,0 +1,12 @@
+F:\.Учеба\Тимонина\Caesar\Caesar\bin\Debug\Caesar.exe.config
+F:\.Учеба\Тимонина\Caesar\Caesar\bin\Debug\Caesar.exe
+F:\.Учеба\Тимонина\Caesar\Caesar\bin\Debug\Caesar.pdb
+F:\.Учеба\Тимонина\Caesar\Caesar\obj\Debug\Caesar.csproj.AssemblyReference.cache
+F:\.Учеба\Тимонина\Caesar\Caesar\obj\Debug\Caesar.Form1.resources
+F:\.Учеба\Тимонина\Caesar\Caesar\obj\Debug\Caesar.Properties.Resources.resources
+F:\.Учеба\Тимонина\Caesar\Caesar\obj\Debug\Caesar.csproj.GenerateResource.cache
+F:\.Учеба\Тимонина\Caesar\Caesar\obj\Debug\Caesar.csproj.CoreCompileInputs.cache
+F:\.Учеба\Тимонина\Caesar\Caesar\obj\Debug\Caesar.exe
+F:\.Учеба\Тимонина\Caesar\Caesar\obj\Debug\Caesar.pdb
+F:\.Учеба\Тимонина\Caesar\Caesar\obj\Debug\Caesar.Form2.resources
+F:\.Учеба\Тимонина\Caesar\Caesar\obj\Debug\Caesar.Form3.resources
